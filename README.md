@@ -1,5 +1,5 @@
 # 老婆生成器Random wife generator 
-[网址](https://huidge.github.io/Random-waifu-generater/) 
+[网址](https://huidge.github.io/Random-wife-generater/) 
 
 一键生成老婆 施工中
 
